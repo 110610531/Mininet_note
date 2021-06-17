@@ -57,7 +57,7 @@ if 'main' == name:
 
 **圖片**
 
-![](Pic/4.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/4.jpg)
 
 * `3.py`
 
@@ -99,5 +99,5 @@ if '__main__' == __name__:
   net.stop()
 ```
 
-![](Pic/ex-1.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/ex-1.jpg)
 
