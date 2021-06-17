@@ -1,4 +1,4 @@
-# mininet腳本執行 
+# mininet腳本執行 (route)
 
 ### 建立普通 h1 h2
 
