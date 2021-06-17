@@ -25,12 +25,12 @@ mininet/util/install.sh -a
 
 `h1 ping -c 1 h2`
 
-![](Pic/2.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/2.jpg)
 
 `xterm`:打開終端機 
 
 `xterm h1 h2`
 
-![](Pic/3.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/3.jpg)
 
 離開`exit`
