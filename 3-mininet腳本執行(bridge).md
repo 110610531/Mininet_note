@@ -109,6 +109,9 @@ if '__main__' == __name__:
 
   ### 多加一個route
 
+![](https://github.com/110610531/Mininet_note/blob/main/pic/br3.jpg)
+
+
   * `br3.py`
 
 ```sh
