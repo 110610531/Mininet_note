@@ -48,7 +48,7 @@ h1 ping h2跟h3
 
 `h1 ping -c 3 h3`
 
-![](Pic/5.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/5.jpg)
 
 > **當 h1 ping h3，h2 不會監聽到任何的訊息**
 
@@ -100,7 +100,7 @@ if '__main__' == __name__:
 
   特點: h1只能ping h2, h3 只能ping h4
 
-  ![](Pic/6.jpg)
+  ![](https://github.com/110610531/Mininet_note/blob/main/pic/6.jpg)
 
   ### 多加一個route
 
@@ -164,7 +164,7 @@ if 'main' == name:
 
 跟上個不同的地方是h1可以ping h2,h3,h4
 
-![](Pic/7.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/7.jpg)
 
 ### vlan
 
