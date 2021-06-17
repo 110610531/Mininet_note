@@ -17,7 +17,7 @@ mininet/util/install.sh -a
 
 安裝好之後輸入`mn`就可以啟動mininet
 
-![](Pic/1.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/1.jpg)
 
 `net`:可以看到各個鏈節訊息
 
