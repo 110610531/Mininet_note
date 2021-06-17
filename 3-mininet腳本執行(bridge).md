@@ -6,6 +6,8 @@
 
 ### 建立一個基本bridge
 
+![](https://github.com/110610531/Mininet_note/blob/main/pic/br1.jpg)
+
 * `br1.py`
 
 ```sh
@@ -53,6 +55,9 @@ h1 ping h2跟h3
 > **當 h1 ping h3，h2 不會監聽到任何的訊息**
 
 ### 建立兩個bridge
+
+![](https://github.com/110610531/Mininet_note/blob/main/pic/br2.jpg)
+
 
 * `br2.py`
 
