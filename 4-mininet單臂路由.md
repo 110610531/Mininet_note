@@ -1,6 +1,6 @@
 # mininet單臂路由
 
-![](Pic/vlan1.jpg)
+![](Pic/https://github.com/110610531/Mininet_note/blob/main/pic/vlan1.jpg)
 
 * `7.py`
 
@@ -68,9 +68,9 @@ if '__main__' == __name__:
 
 h1 ping h3 查看s1-eth2有了**ID:10**的標籤
 
-![](Pic/8.jpg)
+![](Pic/https://github.com/110610531/Mininet_note/blob/main/pic/8.jpg)
 
 
 h2 ping h4 查看s1-eth2有了**ID:20**的標籤
 
-![](Pic/9.jpg)
+![](Pic/https://github.com/110610531/Mininet_note/blob/main/pic/9.jpg)
