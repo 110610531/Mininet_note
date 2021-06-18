@@ -15,7 +15,7 @@
 
 `ovs-ofctl show [switch]` 顯示swtich的一些資訊
 
-![](Pic/11.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/11.jpg)
 
 `dpid`: data path id 在mininet裡為了區分所以第一台的id是1,第二台是2...
 
@@ -30,7 +30,7 @@
 
 建立好規則後打`ovs-ofctl dump-flows [switch]`
 
-![](Pic/12.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/12.jpg)
 
 `n_packets=5`有5個封包是因為arp的關係
 
