@@ -2,7 +2,7 @@
 
 ### vlan配製
 
-![](Pic/https://github.com/110610531/Mininet_note/blob/main/pic/vlan1.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/vlan1.jpg)
 
 * `7.py`
 
