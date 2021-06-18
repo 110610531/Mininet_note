@@ -14,7 +14,7 @@ arp reply:`arp_op=2`
 
 **ICMP type**
 
-![](Pic/icmp.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/icmp.jpg)
 
 icmp req:`icmp_type=8`,`icmp_code=0`
 
@@ -22,7 +22,7 @@ icmp reply:`icmp_type=0`,`icmp_code=0`
 
 ## icmp 實作
 
-![](Pic/13.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/13.jpg)
 
 * `test1.py`
 
@@ -84,7 +84,7 @@ if '__main__' == __name__:
 
 ## mirror
 
-![](Pic/14.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/14.jpg)
 
 * `mirror.py`
 
