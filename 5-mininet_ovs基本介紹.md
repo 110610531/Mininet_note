@@ -3,7 +3,7 @@
 
 一種虛擬交換器，可用來作為L2switch，切割網域，QoS或是流量監控，同時支持openFlow協定。
 
-![](Pic/1.png)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/1.png)
 
 * `mn --topo single,2`建立拓樸
 
