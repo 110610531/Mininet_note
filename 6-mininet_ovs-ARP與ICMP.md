@@ -2,7 +2,7 @@
 
 **ARP packet format**
 
-![](Pic/2.png)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/2.png)
 
 `arp_spa`:來源ip
 
