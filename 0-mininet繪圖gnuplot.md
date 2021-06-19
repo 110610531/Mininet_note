@@ -56,4 +56,4 @@ set output "result.gif"
 
 replot
 ```
-![](Pic/0.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/0.jpg)
