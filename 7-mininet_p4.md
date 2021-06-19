@@ -300,7 +300,7 @@ table_add ipv4_lpm set_nhop 10.3.3.2/24 => 00:00:0a:03:03:02 1
 
 ## copy-to-cpu
 
-![](Pic/ctc.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/ctc.jpg)
 
 * TCP
 
@@ -349,10 +349,10 @@ sock.sendall(message)
 sock.close()
 ```
 
-![](Pic/17.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/17.jpg)
 
 ## send-to-cpu
 
-![](Pic/stc.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/stc.jpg)
 
 ![](https://github.com/110610531/Mininet_note/blob/main/pic/18.jpg)
