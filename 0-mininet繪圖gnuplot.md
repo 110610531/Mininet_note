@@ -29,6 +29,8 @@
 
 `cat udp| grep "sec" | head -n 100 | tr "-" " " | awk '{print $4,$8}' > myudp`
 
+![](Pic/g1.jpg)
+
 **開始繪圖**
 
 * gnuplot
