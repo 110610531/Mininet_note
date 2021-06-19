@@ -29,7 +29,7 @@
 
 `cat udp| grep "sec" | head -n 100 | tr "-" " " | awk '{print $4,$8}' > myudp`
 
-![](Pic/g1.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/g1.jpg)
 
 **開始繪圖**
 
