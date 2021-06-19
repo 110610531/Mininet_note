@@ -15,6 +15,6 @@
 
 * [mininet_p4](https://github.com/110610531/Mininet_note/blob/main/7-mininet_p4.md)
 
-[期中](https://github.com/110610531/Mininet_note/blob/main/%E6%9C%9F%E4%B8%AD.md)
+* [期中](https://github.com/110610531/Mininet_note/blob/main/%E6%9C%9F%E4%B8%AD.md)
 
 
