@@ -2,7 +2,7 @@
 
 ## ex1
 
-![](Pic/p4-test1.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test1.jpg)
 
 * `cd 2-test`
 
@@ -133,11 +133,11 @@ table_add mac_forward forward 00:00:0a:00:00:02 => 2
 table_add mac_forward forward 00:00:0a:00:00:03 => 1
 ```
 
-![](Pic/15.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/15.jpg)
 
 ## ex2
 
-![](Pic/p4-test2.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test2.jpg)
 
 * `cd 3-test`
 
@@ -283,17 +283,17 @@ table_add ipv4_lpm set_nhop 10.2.2.2/24 => 00:00:0a:02:02:02 2
 table_add ipv4_lpm set_nhop 10.3.3.2/24 => 00:00:0a:03:03:02 1
 ```
 
-![](Pic/16.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/16.jpg)
 
 ## ex3
 
-![](Pic/p4-test4.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test4.jpg)
 
 
 
-## 暫定
+## ex4
 
-![](Pic/p4-test3.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test3.jpg)
 
 
 
@@ -355,4 +355,4 @@ sock.close()
 
 ![](Pic/stc.jpg)
 
-![](Pic/18.jpg)
+![](https://github.com/110610531/Mininet_note/blob/main/pic/18.jpg)
