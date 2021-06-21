@@ -285,19 +285,6 @@ table_add ipv4_lpm set_nhop 10.3.3.2/24 => 00:00:0a:03:03:02 1
 
 ![](https://github.com/110610531/Mininet_note/blob/main/pic/16.jpg)
 
-## ex3
-
-![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test4.jpg)
-
-
-
-## ex4
-
-![](https://github.com/110610531/Mininet_note/blob/main/pic/p4-test3.jpg)
-
-
-
-
 ## copy-to-cpu
 
 ![](https://github.com/110610531/Mininet_note/blob/main/pic/ctc.jpg)
